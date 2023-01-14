@@ -8,5 +8,5 @@ CREATE TABLE goods (
   PRIMARY KEY(id)
 );
 
-INSERT INTO goods (name, cost, stock) VALUES (1, "Helical gear", 200, 1000);
-INSERT INTO goods (name, cost, stock) VALUES (1, "Button screw", 5, 2000);
+INSERT INTO goods (name, cost, stock) VALUES ("Helical gear", 200, 1000);
+INSERT INTO goods (name, cost, stock) VALUES ("Button screw", 5, 2000);

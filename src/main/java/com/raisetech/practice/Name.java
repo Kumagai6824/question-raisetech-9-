@@ -11,7 +11,6 @@ public class Name {
         this.name = name;
         this.cost = cost;
         this.stock = stock;
-        
     }
 
     public int getId() {
